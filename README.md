@@ -3,7 +3,6 @@
 A interactive web application that demonstrates core **JavaScript** concepts, specifically focusing on the **Document Object Model (DOM)** and the **Browser Object Model (BOM)**.
 
 ## 🚀 Features
-- **Dynamic Counter:** An interactive counter that increments and decrements values in real-time.
 - **Theme Switcher:** A smooth toggle between Light and Dark modes using CSS classes and JavaScript logic.
 - **Responsive Design:** Centered layout that works across different screen sizes.
 - **BOM Integration:** Demonstrates script loading best practices and browser window interaction.
@@ -15,7 +14,7 @@ A interactive web application that demonstrates core **JavaScript** concepts, sp
 
 ## 📂 Project Structure
 - `index.html`: The main structure of the application.
-- `index.js`: The logic for the counter and theme switching.
+- `index.js`: The logic for the switching.
 - `assets/`: (Optional) Folder for images or extra resources.
 
 ## 💡 Key Learnings
